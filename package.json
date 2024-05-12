@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "yarn gitadd": "git add .",
-    "yarn commit": "npx git-cz"
+    "git": "git add .",
+    "commit": "npx git-cz"
   },
   "dependencies": {
     "@chakra-ui/next-js": "^2.2.0",
