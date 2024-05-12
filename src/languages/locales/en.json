@@ -1,0 +1,30 @@
+{
+  "APP_NAME": "Rental Car",
+  "SIDE_BAR": "Hello from sidebar!",
+  "AUTH": {
+    "LOGIN": {
+      "WELCOME": "Sign in",
+      "DESCRIPTION": "Welcome back! please enter your detail",
+      "EMAIL": "Email address",
+      "PASSWORD": "Password",
+      "PLACEHOLDER_EMAIL": "please enter your email address",
+      "PLACEHOLDER_PASSWORD": "please enter your password",
+      "FORGOT_PASSWORD": "Forgot password",
+      "REMEMBER_ME": "Remember me",
+      "LOG_IN": "Log In"
+    }
+  },
+  "COMMON": {
+    "SEND": "SEND",
+    "CLEAR": "CLEAR",
+    "ERROR": "Required",
+    "ERROR_MESSAGE": "Sorry Error",
+    "EMAIL_ERROR": "Please enter an valid email address",
+    "PASSWORD_ERROR": "Please enter a password",
+    "LOGIN_ERROR": "Username or password incorrect",
+    "OTP_TITLE": "Enter OTP (one-time password)",
+    "OTP_DESC": "An 6 digit OTP has been sent to",
+    "OTP_FOOTER": "Don’t receive an otp? ",
+    "OTP_RESEND": "Resend"
+  }
+}

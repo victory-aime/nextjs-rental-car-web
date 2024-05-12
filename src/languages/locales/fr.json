@@ -1,0 +1,30 @@
+{
+  "APP_NAME": "Rental Car",
+  "SIDE_BAR": "Bonjour de la part du tableau de bord!",
+  "AUTH": {
+    "LOGIN": {
+      "WELCOME": "S'identifier",
+      "DESCRIPTION": "Content de vous revoir! veuillez saisir vos coordonnées",
+      "EMAIL": "Adresse Email",
+      "PLACEHOLDER_EMAIL": "veuiller saisir votre addresse e-mail",
+      "PASSWORD": "Mot de passe",
+      "PLACEHOLDER_PASSWORD": "veuiller saisir votre mot de passe",
+      "FORGOT_PASSWORD": "Mot de passe oublié",
+      "REMEMBER_ME": "Se souvenir de moi",
+      "LOG_IN": "Se connecter"
+    }
+  },
+  "COMMON": {
+    "SEND": "Envoye",
+    "CLEAR": "Effacer",
+    "ERROR": "Obligatoire",
+    "ERROR_MESSAGE": "Désolé erreur",
+    "EMAIL_ERROR": "Veuiller saisir une addresse email valide",
+    "PASSWORD_ERROR": "Veuiller saisir un mot de passe",
+    "LOGIN_ERROR": "Nom d'utilisateur ou mot de passe incorrect",
+    "OTP_TITLE": "Saisir OTP(Mot de passe à usage unique)",
+    "OTP_DESC": "Un OTP à 6 chiffres a été envoyé à",
+    "OTP_FOOTER": "Vous ne recevez pas d'otp? ",
+    "OTP_RESEND": "Renvoyer"
+  }
+}
